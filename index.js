@@ -28,5 +28,5 @@ cron.schedule('* * * * *', () => {
 
 
 app.listen(app.get('port'), () => {
-  console.log(`Example app`)
+  console.log(`Example app running`)
 })
