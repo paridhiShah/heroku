@@ -23,7 +23,7 @@ cron.schedule('* * * * *', () => {
     }
     console.log(`stdout: ${stdout}`)
   })
-  console.log("Script started please be patient");
+  console.log("Script started please be patient!");
 });
 
 
