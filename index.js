@@ -28,5 +28,5 @@ cron.schedule('* * * * *', () => {
 
 
 app.listen(app.get('port'), () => {
-  console.log(`slot machine tests. Please wait script has started!`)
+  console.log(`slot machine tests.Please wait script has started!`)
 })
