@@ -1,0 +1,14 @@
+{
+  "devDependencies": {
+    "@playwright/test": "^1.14.0"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "playwright test"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-cron": "^3.0.0",
+    "playwright": "^1.14.0"
+  }
+}
